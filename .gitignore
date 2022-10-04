@@ -1,0 +1,8 @@
+venv
+venv/
+
+interview.xml
+
+result.csv
+.idea
+.idea/
