@@ -61,7 +61,7 @@ class Utility:
             unzip_args={"filename": "interview", "extension": extension}
 
         )
-        return Utility(filepath=file_path)
+        return cls(filepath=file_path)
 
     @staticmethod
     def unzip_file(
